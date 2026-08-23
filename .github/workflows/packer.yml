@@ -1,0 +1,37 @@
+name: Auto-Pack Textures
+
+on:
+  push:
+    paths:
+      - '**.png' # Triggers whenever any PNG file is added or changed
+      - '!MasterSheet.png' # Prevents infinite loops
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow
+
+      - name: Run texture packer
+        run: python packer.py
+
+      - name: Commit and push changes if sheet updated
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-packed master texture sheet and metadata"
+          file_pattern: MasterSheet.png SpriteData.lua

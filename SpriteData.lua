@@ -1411,44 +1411,84 @@ local SpriteData = {
             Offset = Vector2.new(368, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/3"] = {
+        ["blocks/checker/3"] = {
             Offset = Vector2.new(384, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/6"] = {
+        ["blocks/checker/6"] = {
             Offset = Vector2.new(400, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/5"] = {
+        ["blocks/checker/5"] = {
             Offset = Vector2.new(416, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/8"] = {
+        ["blocks/checker/8"] = {
             Offset = Vector2.new(432, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/2"] = {
+        ["blocks/checker/2"] = {
             Offset = Vector2.new(448, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/7"] = {
+        ["blocks/checker/7"] = {
             Offset = Vector2.new(464, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/9"] = {
+        ["blocks/checker/9"] = {
             Offset = Vector2.new(480, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/4"] = {
+        ["blocks/checker/4"] = {
             Offset = Vector2.new(496, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/1"] = {
+        ["blocks/checker/1"] = {
             Offset = Vector2.new(512, 162),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/0"] = {
+        ["blocks/checker/0"] = {
             Offset = Vector2.new(528, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/3"] = {
+            Offset = Vector2.new(544, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/6"] = {
+            Offset = Vector2.new(560, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/5"] = {
+            Offset = Vector2.new(576, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/8"] = {
+            Offset = Vector2.new(592, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/2"] = {
+            Offset = Vector2.new(608, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/7"] = {
+            Offset = Vector2.new(624, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/9"] = {
+            Offset = Vector2.new(640, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/4"] = {
+            Offset = Vector2.new(656, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/1"] = {
+            Offset = Vector2.new(672, 162),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/0"] = {
+            Offset = Vector2.new(688, 162),
             Size = Vector2.new(16, 16)
         },
     }

@@ -875,44 +875,56 @@ local SpriteData = {
             Offset = Vector2.new(272, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/3"] = {
+        ["blocks/metal/2"] = {
             Offset = Vector2.new(288, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/6"] = {
+        ["blocks/metal/1"] = {
             Offset = Vector2.new(304, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/5"] = {
+        ["blocks/metal/0"] = {
             Offset = Vector2.new(320, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/8"] = {
+        ["background/basic/3"] = {
             Offset = Vector2.new(336, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/2"] = {
+        ["background/basic/6"] = {
             Offset = Vector2.new(352, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/7"] = {
+        ["background/basic/5"] = {
             Offset = Vector2.new(368, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/9"] = {
+        ["background/basic/8"] = {
             Offset = Vector2.new(384, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/4"] = {
+        ["background/basic/2"] = {
             Offset = Vector2.new(400, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/1"] = {
+        ["background/basic/7"] = {
             Offset = Vector2.new(416, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/0"] = {
+        ["background/basic/9"] = {
             Offset = Vector2.new(432, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/4"] = {
+            Offset = Vector2.new(448, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/1"] = {
+            Offset = Vector2.new(464, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/0"] = {
+            Offset = Vector2.new(480, 130),
             Size = Vector2.new(16, 16)
         },
     }

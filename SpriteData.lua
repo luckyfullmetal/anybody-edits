@@ -795,136 +795,148 @@ local SpriteData = {
             Offset = Vector2.new(976, 104),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/3"] = {
+        ["blocks/grass/2"] = {
             Offset = Vector2.new(992, 104),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/6"] = {
+        ["blocks/grass/1"] = {
             Offset = Vector2.new(1008, 104),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/5"] = {
+        ["blocks/grass/0"] = {
             Offset = Vector2.new(0, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/8"] = {
+        ["blocks/beta/3"] = {
             Offset = Vector2.new(16, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/2"] = {
+        ["blocks/beta/6"] = {
             Offset = Vector2.new(32, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/7"] = {
+        ["blocks/beta/5"] = {
             Offset = Vector2.new(48, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/9"] = {
+        ["blocks/beta/8"] = {
             Offset = Vector2.new(64, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/4"] = {
+        ["blocks/beta/2"] = {
             Offset = Vector2.new(80, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/1"] = {
+        ["blocks/beta/7"] = {
             Offset = Vector2.new(96, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/beta/0"] = {
+        ["blocks/beta/9"] = {
             Offset = Vector2.new(112, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/3"] = {
+        ["blocks/beta/4"] = {
             Offset = Vector2.new(128, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/6"] = {
+        ["blocks/beta/1"] = {
             Offset = Vector2.new(144, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/5"] = {
+        ["blocks/beta/0"] = {
             Offset = Vector2.new(160, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/8"] = {
+        ["blocks/brick/3"] = {
             Offset = Vector2.new(176, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/2"] = {
+        ["blocks/brick/6"] = {
             Offset = Vector2.new(192, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/7"] = {
+        ["blocks/brick/5"] = {
             Offset = Vector2.new(208, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/9"] = {
+        ["blocks/brick/8"] = {
             Offset = Vector2.new(224, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/4"] = {
+        ["blocks/brick/2"] = {
             Offset = Vector2.new(240, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/1"] = {
+        ["blocks/brick/7"] = {
             Offset = Vector2.new(256, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/brick/0"] = {
+        ["blocks/brick/9"] = {
             Offset = Vector2.new(272, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/metal/2"] = {
+        ["blocks/brick/4"] = {
             Offset = Vector2.new(288, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/metal/1"] = {
+        ["blocks/brick/1"] = {
             Offset = Vector2.new(304, 130),
             Size = Vector2.new(16, 16)
         },
-        ["blocks/metal/0"] = {
+        ["blocks/brick/0"] = {
             Offset = Vector2.new(320, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/3"] = {
+        ["blocks/metal/2"] = {
             Offset = Vector2.new(336, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/6"] = {
+        ["blocks/metal/1"] = {
             Offset = Vector2.new(352, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/5"] = {
+        ["blocks/metal/0"] = {
             Offset = Vector2.new(368, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/8"] = {
+        ["background/basic/3"] = {
             Offset = Vector2.new(384, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/2"] = {
+        ["background/basic/6"] = {
             Offset = Vector2.new(400, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/7"] = {
+        ["background/basic/5"] = {
             Offset = Vector2.new(416, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/9"] = {
+        ["background/basic/8"] = {
             Offset = Vector2.new(432, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/4"] = {
+        ["background/basic/2"] = {
             Offset = Vector2.new(448, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/1"] = {
+        ["background/basic/7"] = {
             Offset = Vector2.new(464, 130),
             Size = Vector2.new(16, 16)
         },
-        ["background/basic/0"] = {
+        ["background/basic/9"] = {
             Offset = Vector2.new(480, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/4"] = {
+            Offset = Vector2.new(496, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/1"] = {
+            Offset = Vector2.new(512, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/basic/0"] = {
+            Offset = Vector2.new(528, 130),
             Size = Vector2.new(16, 16)
         },
     }

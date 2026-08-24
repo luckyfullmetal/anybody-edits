@@ -1895,6 +1895,46 @@ local SpriteData = {
             Offset = Vector2.new(256, 194),
             Size = Vector2.new(16, 16)
         },
+        ["background/beta/3"] = {
+            Offset = Vector2.new(272, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/6"] = {
+            Offset = Vector2.new(288, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/5"] = {
+            Offset = Vector2.new(304, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/8"] = {
+            Offset = Vector2.new(320, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/2"] = {
+            Offset = Vector2.new(336, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/7"] = {
+            Offset = Vector2.new(352, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/9"] = {
+            Offset = Vector2.new(368, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/4"] = {
+            Offset = Vector2.new(384, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/1"] = {
+            Offset = Vector2.new(400, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/beta/0"] = {
+            Offset = Vector2.new(416, 194),
+            Size = Vector2.new(16, 16)
+        },
     }
 }
 

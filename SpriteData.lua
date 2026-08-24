@@ -795,6 +795,46 @@ local SpriteData = {
             Offset = Vector2.new(976, 104),
             Size = Vector2.new(16, 16)
         },
+        ["blocks/beta/3"] = {
+            Offset = Vector2.new(992, 104),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/6"] = {
+            Offset = Vector2.new(1008, 104),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/5"] = {
+            Offset = Vector2.new(0, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/8"] = {
+            Offset = Vector2.new(16, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/2"] = {
+            Offset = Vector2.new(32, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/7"] = {
+            Offset = Vector2.new(48, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/9"] = {
+            Offset = Vector2.new(64, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/4"] = {
+            Offset = Vector2.new(80, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/1"] = {
+            Offset = Vector2.new(96, 130),
+            Size = Vector2.new(16, 16)
+        },
+        ["blocks/beta/0"] = {
+            Offset = Vector2.new(112, 130),
+            Size = Vector2.new(16, 16)
+        },
     }
 }
 

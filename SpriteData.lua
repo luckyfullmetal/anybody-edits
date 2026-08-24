@@ -1975,6 +1975,46 @@ local SpriteData = {
             Offset = Vector2.new(576, 194),
             Size = Vector2.new(16, 16)
         },
+        ["background/checker/3"] = {
+            Offset = Vector2.new(592, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/6"] = {
+            Offset = Vector2.new(608, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/5"] = {
+            Offset = Vector2.new(624, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/8"] = {
+            Offset = Vector2.new(640, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/2"] = {
+            Offset = Vector2.new(656, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/7"] = {
+            Offset = Vector2.new(672, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/9"] = {
+            Offset = Vector2.new(688, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/4"] = {
+            Offset = Vector2.new(704, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/1"] = {
+            Offset = Vector2.new(720, 194),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/checker/0"] = {
+            Offset = Vector2.new(736, 194),
+            Size = Vector2.new(16, 16)
+        },
     }
 }
 

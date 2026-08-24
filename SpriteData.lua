@@ -2431,104 +2431,132 @@ local SpriteData = {
             Offset = Vector2.new(352, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/3"] = {
+        ["background/jungle/3"] = {
             Offset = Vector2.new(368, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/6"] = {
+        ["background/jungle/6"] = {
             Offset = Vector2.new(384, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/5"] = {
+        ["background/jungle/5"] = {
             Offset = Vector2.new(400, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/8"] = {
+        ["background/jungle/2"] = {
             Offset = Vector2.new(416, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/2"] = {
+        ["background/jungle/4"] = {
             Offset = Vector2.new(432, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/7"] = {
+        ["background/jungle/1"] = {
             Offset = Vector2.new(448, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/9"] = {
+        ["background/jungle/0"] = {
             Offset = Vector2.new(464, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/4"] = {
+        ["background/checker/3"] = {
             Offset = Vector2.new(480, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/1"] = {
+        ["background/checker/6"] = {
             Offset = Vector2.new(496, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/checker/0"] = {
+        ["background/checker/5"] = {
             Offset = Vector2.new(512, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/water/3"] = {
+        ["background/checker/8"] = {
             Offset = Vector2.new(528, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/water/2"] = {
+        ["background/checker/2"] = {
             Offset = Vector2.new(544, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/water/4"] = {
+        ["background/checker/7"] = {
             Offset = Vector2.new(560, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/water/1"] = {
+        ["background/checker/9"] = {
             Offset = Vector2.new(576, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/water/0"] = {
+        ["background/checker/4"] = {
             Offset = Vector2.new(592, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/3"] = {
+        ["background/checker/1"] = {
             Offset = Vector2.new(608, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/6"] = {
+        ["background/checker/0"] = {
             Offset = Vector2.new(624, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/5"] = {
+        ["background/water/3"] = {
             Offset = Vector2.new(640, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/8"] = {
+        ["background/water/2"] = {
             Offset = Vector2.new(656, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/2"] = {
+        ["background/water/4"] = {
             Offset = Vector2.new(672, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/7"] = {
+        ["background/water/1"] = {
             Offset = Vector2.new(688, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/9"] = {
+        ["background/water/0"] = {
             Offset = Vector2.new(704, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/4"] = {
+        ["background/dark/3"] = {
             Offset = Vector2.new(720, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/1"] = {
+        ["background/dark/6"] = {
             Offset = Vector2.new(736, 226),
             Size = Vector2.new(16, 16)
         },
-        ["background/dark/0"] = {
+        ["background/dark/5"] = {
             Offset = Vector2.new(752, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/8"] = {
+            Offset = Vector2.new(768, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/2"] = {
+            Offset = Vector2.new(784, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/7"] = {
+            Offset = Vector2.new(800, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/9"] = {
+            Offset = Vector2.new(816, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/4"] = {
+            Offset = Vector2.new(832, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/1"] = {
+            Offset = Vector2.new(848, 226),
+            Size = Vector2.new(16, 16)
+        },
+        ["background/dark/0"] = {
+            Offset = Vector2.new(864, 226),
             Size = Vector2.new(16, 16)
         },
     }
